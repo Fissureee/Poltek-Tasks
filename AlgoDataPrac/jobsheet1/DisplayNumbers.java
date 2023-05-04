@@ -8,9 +8,9 @@ public class DisplayNumbers {
 
         int evenNum = 0;
         int count = 0;
-        do{
-            if (evenNum % 2 == 0){
-                if(evenNum % 4 != 0){
+        do {
+            if (evenNum % 2 == 0) {
+                if (evenNum % 4 != 0) {
                     System.out.printf("%d ", evenNum);
                     count++;
                 }
