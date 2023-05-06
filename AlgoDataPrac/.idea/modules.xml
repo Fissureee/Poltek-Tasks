@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/AlgoDataPrac.iml" filepath="$PROJECT_DIR$/.idea/AlgoDataPrac.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Jobsheet8/Jobsheet8.iml" filepath="$PROJECT_DIR$/Jobsheet8/Jobsheet8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Quiz/Quiz.iml" filepath="$PROJECT_DIR$/Quiz/Quiz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UTS/UTS.iml" filepath="$PROJECT_DIR$/UTS/UTS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jobsheet5/jobsheet5.iml" filepath="$PROJECT_DIR$/jobsheet5/jobsheet5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jobsheet6/jobsheet5 (1).iml" filepath="$PROJECT_DIR$/jobsheet6/jobsheet5 (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/jobsheet7/jobsheet7.iml" filepath="$PROJECT_DIR$/jobsheet7/jobsheet7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jobsheet4/jobsheet_4.iml" filepath="$PROJECT_DIR$/jobsheet4/jobsheet_4.iml" />
+    </modules>
+  </component>
+</project>

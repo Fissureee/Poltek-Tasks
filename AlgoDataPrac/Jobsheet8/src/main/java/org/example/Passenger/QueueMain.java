@@ -41,7 +41,7 @@ public class QueueMain {
                     queuePassangers.enqueue(p);
                     break;
                 case 2:
-                    Passengers data = queuePassangers.Dequeue();
+                    Passengers data = queuePassangers.dequeue();
                     if (!"".equals(data.name) && !"".equals(data.cityOrigin) && !"".equals(data.cityDestination) && !"".equals(data.ticketAmount) && !"".equals(data.price)){
                         System.out.println("Data removed : " + data.name + " " + data.cityOrigin + " " + data.cityDestination + " " + data.ticketAmount + " " + data.price);
                         break;
