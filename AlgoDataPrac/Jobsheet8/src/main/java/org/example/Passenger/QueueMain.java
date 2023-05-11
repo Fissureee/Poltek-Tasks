@@ -9,7 +9,8 @@ public class QueueMain {
         System.out.println("2. Dequeue");
         System.out.println("3. Print");
         System.out.println("4. Peek");
-        System.out.println("5. Clear");
+        System.out.println("5. Peek Rear");
+        System.out.println("6. Clear");
         System.out.println("===========================");
     }
 
@@ -53,10 +54,13 @@ public class QueueMain {
                     queuePassangers.peek();
                     break;
                 case 5:
+                    queuePassangers.peekRear();
+                    break;
+                case 6:
                     queuePassangers.clear();
                     break;
             }
-        } while (choose <= 4 && choose >= 1);
+        } while (choose <= 5 && choose >= 1);
     }
 
 }

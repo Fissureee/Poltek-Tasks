@@ -3,12 +3,13 @@ package org.example.Passenger;
 public class QueuePassangers {
     int max, size, front, rear;
     Passengers[] Q;
+
     public QueuePassangers(int n) {
         max = n;
         Create();
     }
 
-    public void Create(){
+    public void Create() {
         Q = new Passengers[max];
         size = 0;
         front = rear = -1;
@@ -22,7 +23,7 @@ public class QueuePassangers {
         }
     }
 
-    public boolean isFull(){
+    public boolean isFull() {
         if (size == max) {
             return true;
         } else {
@@ -30,7 +31,7 @@ public class QueuePassangers {
         }
     }
 
-    public void peek(){
+    public void peek() {
         if (!isEmpty()) {
             System.out.println("The first element : " + Q[front]);
         } else {
@@ -38,12 +39,12 @@ public class QueuePassangers {
         }
     }
 
-    public void print(){
-        if (!isEmpty()){
+    public void print() {
+        if (!isEmpty()) {
             System.out.println("Queue is still empty");
-        }else{
+        } else {
             int i = front;
-            while(i != rear){
+            while (i != rear) {
                 System.out.println(
                         "The first element : " + Q[front].name +
                                 " " + Q[front].cityOrigin +
@@ -51,15 +52,15 @@ public class QueuePassangers {
                                 " " + Q[front].ticketAmount +
                                 " " + Q[front].price
                 );
-                i = (i+1) % max;
+                i = (i + 1) % max;
             }
             System.out.println(Q[i] + " ");
             System.out.println("Element amount : " + size);
         }
     }
 
-    public void clear(){
-        if (!isEmpty()){
+    public void clear() {
+        if (!isEmpty()) {
             front = rear = -1;
             size = 0;
             System.out.println("Queue has been cleared successfully");
@@ -68,13 +69,13 @@ public class QueuePassangers {
         }
     }
 
-    public void enqueue(Passengers data){
-        if (isFull()){
+    public void enqueue(Passengers data) {
+        if (isFull()) {
             System.out.println("Queue is already full");
         } else {
-            if (isEmpty()){
+            if (isEmpty()) {
                 front = rear = 0;
-            }else{
+            } else {
                 rear++;
             }
         }
@@ -82,17 +83,17 @@ public class QueuePassangers {
         size++;
     }
 
-    public Passengers Dequeue(){
+    public Passengers Dequeue() {
         Passengers data = new Passengers("", "", "", 0, 0);
-        if (isEmpty()){
+        if (isEmpty()) {
             System.out.println("Queue is still empty");
-        }else{
+        } else {
             data = Q[front];
             size--;
-            if (isEmpty()){
+            if (isEmpty()) {
                 front = rear = -1;
             } else {
-                if (front == max -1){
+                if (front == max - 1) {
                     front = 0;
                 } else {
                     front++;
@@ -100,5 +101,13 @@ public class QueuePassangers {
             }
         }
         return data;
+    }
+
+    public void peekRear() {
+        if (!isEmpty()) {
+            System.out.println("The last element : " + Q[rear]);
+        } else {
+            System.out.println("Queue is still empty");
+        }
     }
 }
