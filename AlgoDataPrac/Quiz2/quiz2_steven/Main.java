@@ -18,11 +18,19 @@ public class Main {
         dll.print();
         //continue to call addLast, deleteLast,
         dll.addLast(66);
+        dll.addLast(67);
+        dll.addLast(99);
         dll.deleteLast();
+        System.out.println("\nThe list after add last and delete last: ");
+        dll.print();
         //merge, split,
+        System.out.println("\nSplit before merge: ");
         split(dll);
+        System.out.println("\nThe list after the merge: ");
         merge(dll, dll);
         dll.print();
+        System.out.println("\nSplit after merge: ");
+        split(dll);
     } 
     //2.A.
     public static void merge(SingleLinkedList l1,
@@ -42,5 +50,31 @@ public class Main {
         //ex: 2,3,4,34,2,3,45,4 (original list)
         //1-> 2,3,4,34
         //2-> 2,3,45,4
+
+        //Declaring s1 and s2 to store the value from the split process
+        SingleLinkedList s1 = new SingleLinkedList();
+        SingleLinkedList s2 = new SingleLinkedList();
+
+        //variable size is used to store the original size of the list
+        int size = l.size;
+
+        //new node tmp to store the value of head
+        Node tmp = l.head;
+
+        //This is used to loop through half of the list and adding the data to the s1 list
+        for (int i = 0; i < size/2; i++){
+            s1.addLast(tmp.data);
+            tmp = tmp.n;
+        }
+
+        //This continues from the last loop and adding the data to the s2 list
+        for (int i = size/2; i < size; i++){
+            s2.addLast(tmp.data);
+            tmp = tmp.n;
+        }
+
+        //Prints the output
+        s1.print();
+        s2.print();
     }
 }
