@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="059aeb5c-512c-46f8-9f6a-bdb189568e84" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Jobsheet4/Experiment3/MainPertanyaan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jobsheet6/src/main/java/Experiment1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jobsheet6/src/main/java/Experiment1/ClassA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jobsheet6/src/main/java/Experiment1/ClassB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jobsheet6/src/main/java/Experiment1/Percobaan1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jobsheet6/src/main/java/Experiment2/ClassA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jobsheet6/src/main/java/Experiment2/ClassB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jobsheet6/src/main/java/Experiment2/Percobaan2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jobsheet6/src/main/java/Experiment3/Bangun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jobsheet6/src/main/java/Experiment3/Percobaan3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jobsheet6/src/main/java/Experiment3/Tabung.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jobsheet6/src/main/java/Experiment4/ClassA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jobsheet6/src/main/java/Experiment4/ClassB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jobsheet6/src/main/java/Experiment4/ClassC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jobsheet6/src/main/java/Experiment4/Percobaan4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Experiment1/Inheritance1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Experiment1/Karyawan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Experiment1/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Experiment1/Staff.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Experiment1/StaffHarian.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Experiment1/StaffTetap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tugas/Komputer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tugas/Laptop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tugas/Mac.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tugas/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tugas/Pc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tugas/Windows.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jobsheet9/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jobsheet9/src/main/java/PerkalianKu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Jobsheet4/Experiment1/MainPercobaan1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Jobsheet4/Experiment1/MainPercobaan1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Jobsheet4/Experiment3/KeretaApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Jobsheet4/Experiment3/KeretaApi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Jobsheet4/Experiment4/Gerbong.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Jobsheet4/Experiment4/Gerbong.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Jobsheet4/Experiment4/MainPercobaan4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Jobsheet4/Experiment4/MainPercobaan4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Jobsheet4/out/production/Jobsheet4/Experiment1/MainPercobaan1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Jobsheet4/out/production/Jobsheet4/Experiment1/MainPercobaan1.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2YIeeB4D8QZcU1X2b6nlpjYq1Qc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.appearance&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\USER\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="059aeb5c-512c-46f8-9f6a-bdb189568e84" name="Changes" comment="" />
+      <created>1700217615734</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700217615734</updated>
+    </task>
+    <servers />
+  </component>
+</project>

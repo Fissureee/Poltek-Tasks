@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="41ba26a5-69ce-4712-ab51-2ca7383cba73" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Jobsheet10/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jobsheet10/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jobsheet10/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jobsheet10/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jobsheet10/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jobsheet10/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jobsheet10/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jobsheet10/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jobsheet10/src/main/java/DataManipulation/DoubleLInkedListMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jobsheet10/src/main/java/DataManipulation/DoubleLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jobsheet10/src/main/java/DataManipulation/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jobsheet10/src/main/java/StackDLL/StackLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jobsheet10/src/main/java/StackDLL/StackMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jobsheet10/src/main/java/StackDLL/StackNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jobsheet10/src/main/java/StudentDLL/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jobsheet10/src/main/java/StudentDLL/StudentMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jobsheet10/src/main/java/StudentDLL/StudentMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jobsheet10/src/main/java/StudentDLL/StudentNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jobsheet10/src/main/java/VaccineQueue/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jobsheet10/src/main/java/VaccineQueue/QueueLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jobsheet10/src/main/java/VaccineQueue/QueueMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jobsheet10/src/main/java/VaccineQueue/QueueNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jobsheet10/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Screenshot 2023-05-29 110121.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Screenshot 2023-05-29 111930.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quiz2_steven.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quiz2_steven/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quiz2_steven/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quiz2_steven/SingleLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quiz2_steven/q2-p - 1.pptx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2QRz9zH1ArMsl0Kx6uwsHb5SP3O" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/PoltekPrac/AlgoDataPrac/Quiz2",
+    "settings.editor.selected.configurable": "configurable.group.appearance"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PoltekPrac\AlgoDataPrac\Quiz2\quiz2_steven" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="quiz21f.quiz2_steven" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\USER\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="41ba26a5-69ce-4712-ab51-2ca7383cba73" name="Changes" comment="" />
+      <created>1685331036779</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1685331036779</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

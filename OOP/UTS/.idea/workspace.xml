@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3f7996cf-ec9c-4a29-a696-3689dacd71b4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../AlgoDataPrac/Jobsheet10/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AlgoDataPrac/Jobsheet10/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AlgoDataPrac/Jobsheet10/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AlgoDataPrac/Jobsheet10/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AlgoDataPrac/Jobsheet10/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AlgoDataPrac/Jobsheet10/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AlgoDataPrac/Jobsheet10/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AlgoDataPrac/Jobsheet10/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AlgoDataPrac/Jobsheet10/src/main/java/DataManipulation/DoubleLInkedListMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AlgoDataPrac/Jobsheet10/src/main/java/DataManipulation/DoubleLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AlgoDataPrac/Jobsheet10/src/main/java/DataManipulation/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AlgoDataPrac/Jobsheet10/src/main/java/StackDLL/StackLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AlgoDataPrac/Jobsheet10/src/main/java/StackDLL/StackMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AlgoDataPrac/Jobsheet10/src/main/java/StackDLL/StackNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AlgoDataPrac/Jobsheet10/src/main/java/StudentDLL/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AlgoDataPrac/Jobsheet10/src/main/java/StudentDLL/StudentMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AlgoDataPrac/Jobsheet10/src/main/java/StudentDLL/StudentMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AlgoDataPrac/Jobsheet10/src/main/java/StudentDLL/StudentNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AlgoDataPrac/Jobsheet10/src/main/java/VaccineQueue/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AlgoDataPrac/Jobsheet10/src/main/java/VaccineQueue/QueueLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AlgoDataPrac/Jobsheet10/src/main/java/VaccineQueue/QueueMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AlgoDataPrac/Jobsheet10/src/main/java/VaccineQueue/QueueNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AlgoDataPrac/Jobsheet10/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AlgoDataPrac/Jobsheet11/src/main/java/BT/BinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AlgoDataPrac/Jobsheet11/src/main/java/BT/BinaryTreeArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AlgoDataPrac/Jobsheet11/src/main/java/BT/BinaryTreeArrayMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AlgoDataPrac/Jobsheet11/src/main/java/BT/BinaryTreeMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AlgoDataPrac/Jobsheet11/src/main/java/BT/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AlgoDataPrac/Jobsheet12/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AlgoDataPrac/Jobsheet12/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AlgoDataPrac/Jobsheet12/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AlgoDataPrac/Jobsheet12/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AlgoDataPrac/Jobsheet12/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AlgoDataPrac/Jobsheet12/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AlgoDataPrac/Jobsheet12/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AlgoDataPrac/Jobsheet12/src/main/java/Prac1/Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AlgoDataPrac/Jobsheet12/src/main/java/Prac1/GraphMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AlgoDataPrac/Jobsheet12/src/main/java/Prac1/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AlgoDataPrac/Jobsheet12/src/main/java/Prac1/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AlgoDataPrac/Jobsheet12/src/main/java/Prac2/graphArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AlgoDataPrac/Quiz2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AlgoDataPrac/Quiz2/Quiz2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AlgoDataPrac/Quiz2/Screenshot 2023-05-29 110121.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AlgoDataPrac/Quiz2/Screenshot 2023-05-29 111930.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AlgoDataPrac/Quiz2/out/production/Quiz2/quiz21f/Quiz2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AlgoDataPrac/Quiz2/quiz2_steven.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AlgoDataPrac/Quiz2/quiz2_steven/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AlgoDataPrac/Quiz2/quiz2_steven/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AlgoDataPrac/Quiz2/quiz2_steven/SingleLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AlgoDataPrac/Quiz2/quiz2_steven/q2-p - 1.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AlgoDataPrac/uas/out/production/uas/uas.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AlgoDataPrac/uas/uas.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jobsheet3/Jobsheet3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jobsheet3/encap/EncapDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jobsheet3/encap/EncapTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jobsheet3/koperasi/Anggota.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jobsheet3/koperasi/TestKoperasi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jobsheet3/out/production/Jobsheet3/Jobsheet3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jobsheet4/Experiment1/Laptop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jobsheet4/Experiment1/MainPercobaan1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jobsheet4/Experiment1/Processor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jobsheet4/Experiment2/MainPercobaan2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jobsheet4/Experiment2/Mobil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jobsheet4/Experiment2/Pelanggan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jobsheet4/Experiment2/Sopir.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jobsheet4/Experiment3/KeretaApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jobsheet4/Experiment3/MainPercobaan3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jobsheet4/Experiment3/Pegawai.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jobsheet4/Experiment4/Gerbong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jobsheet4/Experiment4/Kursi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jobsheet4/Experiment4/MainPercobaan4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jobsheet4/Experiment4/Penumpang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jobsheet4/Jobsheet4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jobsheet4/out/production/Jobsheet4/Jobsheet4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/five/Buku.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/five/Penulis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/four/Mahasiswa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Class.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ClassY.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2XGA0dbxOu9WG988f231EaVArbh" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "settings.editor.selected.configurable": "configurable.group.appearance"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\USER\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3f7996cf-ec9c-4a29-a696-3689dacd71b4" name="Changes" comment="" />
+      <created>1698244824768</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698244824768</updated>
+    </task>
+    <servers />
+  </component>
+</project>
